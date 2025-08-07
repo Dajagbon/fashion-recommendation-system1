@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+*.zip
+*.pyc
+env/
+fashion_data/images/
+model/
